@@ -93,7 +93,6 @@ streamlit run dashboard_risk.py
 ## 👥 Contributors
 
 * **Project Manager / Use Case 1 Lead**: KAH YAN LAI
-* Team Members: EMIRA SHEIKH, ROHAN KORLAHALLI, SONA JOSEPH, SANDUNI CHAMINDI THATHSARANI DENAGAMA GAM ACHARIGE
 
 ---
 
